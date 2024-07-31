@@ -11,6 +11,8 @@ This Python script captures a screenshot of a specified browser window, extracts
 
 ## Prerequisites
 
+Recommended: create a python virtual environment then install dependencies inside of virtual environment.
+
 Install the required packages using pip:
 ```bash
 pip install pygetwindow pillow pytesseract opencv-python pywinauto pyautogui mss
